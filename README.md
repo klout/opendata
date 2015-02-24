@@ -44,7 +44,7 @@ BibTex:
 ```
 @misc{klout:user_timestamp_open_set,
   title = "Social Network Post-Reaction Timestamp Data Set",
-  author = "Klout ",
+  author = "Klout",
   howpublished = "\url{https://github.com/klout/opendata}",
   edition = "02 23, 2015",
   year = "2015"
