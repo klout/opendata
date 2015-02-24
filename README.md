@@ -25,7 +25,7 @@ The data is encoded as UTF-8 text in tab-separated format and compressed with Gz
 * post_id_fingerprint (unsigned int64)
 * post_timestamp (Unix epoch time in milliseconds)
 * action_timestamp (Unix epoch time in milliseconds)
-* user_timezone
+* user_timezone ([Freebase timezone name](https://www.freebase.com/time/time_zone/time_zone_name_standard) eg. [Central Standard Time)](https://www.freebase.com/m/02fqwt))
 
 ### Example ###
 
