@@ -37,7 +37,7 @@ The dataset is divided into sets grouped by the date of the post creation.
 
 If you'd like to cite these data sets in a publication, you may use:
 ```
-Klout, User Timestamp Open Data Set, https://github.com/opendata, 02 23, 2015.
+Klout, Social Network Post-Reaction Timestamp Data Set, https://github.com/opendata, 02 23, 2015.
 ```
 
 BibTex:
