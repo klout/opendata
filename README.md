@@ -43,8 +43,8 @@ Klout, User Timestamp Open Data Set, https://github.com/opendata, 02 23, 2015.
 BibTex:
 ```
 @misc{klout:user_timestamp_open_set,
-  title = "User Timestamp Open Data Set"
-  author = "Klout",
+  title = "Social Network Post-Reaction Timestamp Data Set",
+  author = "Klout ",
   howpublished = "\url{https://github.com/klout/opendata}",
   edition = "02 23, 2015",
   year = "2015"
